@@ -1,0 +1,11 @@
+#footer{
+    width:100%;
+    line-height:3;
+    text-align: center;
+    color: rgb(46, 55, 59);
+    background-color: antiquewhite;
+}
+.column{
+    width: 300px;
+    height: 100px;
+}
